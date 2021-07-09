@@ -12,4 +12,4 @@ t2.start()
 while input("")!="Stop":
     continue
 receiving.stop_server()
-senidng.stop_stream() 
+sending.stop_stream() 
